@@ -1,0 +1,7 @@
+Exercício7
+
+1.Ana sofreu um ataque do e-mail malicioso.
+2.Tinha um logotipo do banco e um link que a leva para um site idêntica ao site oficial.
+3.Verificar o link e verificar se a conta e oficial ou não.
+4.Liga o banco , fala com policia etc. 
+
